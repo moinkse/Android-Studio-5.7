@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DemoCompanyApp</string>
+    <string name="no_image">No image found!</string>
+    <string name="long_text">Historia oraz pochodzenie słowa „Google”
+    Nazwa „Google” powstała jako zniekształcona forma słowa „googol”. Twórcą tego terminu był Milton Sirotta, a spopularyzował go amerykański matematyk i wuj Sirotty, Edward Kasner. „Googol” oznacza liczbę 10100 (w zapisie dziesiętnym jedynka i 100 zer).
+
+    Jesienią 1997 r. Brin i Page potrzebowali nowej nazwy dla wyszukiwarki BackRub. O pomoc poprosili Seana Andersona, kolegę z pokoju Page’a, który miał za zadanie wypisywać na tablicy wszystkie słowa jakie przyjdą mu do głowy. W końcu, 15 września 1997, podczas którejś sesji Sean zaproponował Googolplex, uzasadniając ten wybór w następujący sposób: „Staracie się opracować produkty, które pozwoliłyby ludziom na przeszukiwanie dużej ilości danych a googol to przecież ogromna liczba”. Larry, któremu spodobała się nazwa, sprawdził, czy domena jest wolna i jeszcze tego wieczora ją zarejestrował[14], nawet nieświadomy błędu, który popełnił wpisując „google”, a następnie nową nazwę wypisał na tablicy w pokoju. Rano Tamara Munzner dopisała „chyba miało być googol?”. Prawidłowa nazwa była już zarejestrowana od dwóch i pół roku[15].
+
+    Początkowo wyszukiwarka działała na serwerach amerykańskiego Uniwersytetu Stanforda, w domenie google.stanford.edu, do czasu rejestracji google.com 15 września 1997. Rejestracja przedsiębiorstwa nastąpiła rok później, 4 września 1998. Pierwszym w historii wsparciem finansowym udzielonym Google była kwota stu tysięcy dolarów, przekazana jeszcze przed faktycznym założeniem przedsiębiorstwa Google Inc. Ofiarodawcą był Andy Bechtolsheim, współzałożyciel Sun Microsystems i było to finansowanie na zasadzie anioła biznesu. Jedna z wersji pochodzenia nazwy google mówi, że to właśnie Bechtolsheim popełnił błąd, wpisując firmę na przekazywanym czeku opiewającym na sumę 100 tys. dolarów. 10 sierpnia 2015 dotychczasowy CEO Larry Page ogłosił powołanie nowej spółki Alphabet Inc. Od 3 października 2015, Google jest filią Alphabet, a Sundar Pichai jest CEO Google. Akcje GOOG i GOOGL są obecnie akcjami Alphabet.
+
+    Żarty
+    Spółka znana jest z wielu humorystycznych akcentów zaszytych w oferowanych usługach, a także z często złożonych żartów primaaprilisowych, takich jak zapowiedzi wprowadzenia napoju Google Gulp![16] albo algorytmu PigeonRank[17], w którym wartość stron internetowych miałaby być obliczana przez gołębie z uwagi na ich rzekomą „umiejętność podejmowania natychmiastowych decyzji w przypadku skonfrontowania z trudnymi wyborami”.
+
+    Z okazji prima aprilis w 2013 zaprezentowano aplikację Nos Google, która po przyłożeniu nosa do monitora komputera lub wyświetlacza smartfonu miała emitować każdy wybrany zapach.
+
+    Przejęcie portalu Panoramio
+    W lipcu 2007 roku koncern przejął portal Panoramio. Wedle obietnic i zobowiązań zdjęcia użytkowników Panoramio, których konta były powiązane z Google miały w momencie likwidacji portalu migrować do Google Photos. Faktycznie portal Panoramio przestał działać dnia 1 lutego 2018, natomiast pliki do tej pory (czerwiec 2018) nie zostały przeniesione do Google, bądź przeniesiono je w śladowych ilościach. Klienci Panoramio, którzy traktowali portal m.in. również jako zewnętrzny dysk dla swoich zdjęć, potracili niejednokrotnie wskutek niedopełnienia tegoż zobowiązania kilkanaście tysięcy i więcej swoich plików. Poznikały również wszystkie starsze zdjęcia z Google Maps, które wcześniej były automatycznie dodawane z portalu Panoramio[18][19].
+
+    Kontrowersje
+    Niektóre z praktyk stosowanych przez spółkę Google stały się powodem kontrowersji jak np. niejasny sposób pozyskiwania i przechowywania danych dot. indywidualnych użytkowników czy zarzut wspierania cenzury w Internecie.
+
+    Innym częstym zarzutem pod adresem Google jest wieloznaczna polityka prywatności, która do niedawna nie podawała żadnych ograniczeń dotyczących tego, jak długo spółka przechowywać będzie zapytania użytkowników i stosowanie ciasteczek do powiązania ze sobą kolejnych wizyt danej osoby. W roku 2007 spółka zmodyfikowała nieco swoją politykę w tym względzie[20].
+
+    W 2007 roku Christian Institute oskarżyło Google o dyskryminację organizacji chrześcijańskich i zasad wolności światopoglądowej wyrażonej w brytyjskiej ustawie z 2006 roku z powodu odmowy zamieszczenia płatnych ogłoszeń do swoich internetowych stron pro-life. Reklamy miałyby pojawiać się po wpisaniu hasła „aborcja”. Spółka Google broniła się tym, że przyjęta przez nią polityka zabrania reklamowania i promowania stron, które łączą religię z takimi kwestiami jak właśnie aborcja. Przewód sądowy zakończył się we wrześniu 2008 r. ugodą i wycofaniem Google z zajmowanego stanowiska[21].
+
+    Podobny przypadek miał miejsce w Polsce, kiedy spółka Google odmówiła zamieszczenia reklamy zleconej przez Stowarzyszenie Kultury Chrześcijańskiej im. ks. Piotra Skargi. Reklama miała zachęcać do protestu przeciwko przyjęciu przez Polskę Karty praw podstawowych Unii Europejskiej[22].
+
+    Google w Japonii za to musiał usunąć część automatycznych podpowiedzi, które – pojawiając się po nazwiskach niektórych osób – sugerowały, iż osoba o której nazwisko się wpisuje w wyszukiwarkę miała mieć kryminalną przeszłość[23].
+</string>
+    <string name="hello_google">Hello Google :)</string>
+    <string name="todo">TODO</string>
+</resources>
